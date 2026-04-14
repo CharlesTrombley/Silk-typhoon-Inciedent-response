@@ -11,4 +11,4 @@ systems, deployed tools, accessed the Microsoft Exchange server, exported a user
 to a PST file, and cleared Windows event logs to evade detection.
 
 
-<img src="logo.png" alt="Logo" width="50%">
+<img src="Screenshot 2026-04-13 220122.png" alt="Logo" width="50%">
