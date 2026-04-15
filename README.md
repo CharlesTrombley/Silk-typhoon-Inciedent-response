@@ -14,3 +14,9 @@ Identified indicators of compromise and root cause.
 
 
 <img src="1_simspace_presentation.webp" alt="Logo" width="50%">
+
+Overview
+This case study documents a multi-stage compromise affecting a Windows domain and Microsoft Exchange environment. The attacker obtained administrative access, executed PowerShell-based tooling, dumped credentials with Mimikatz, moved laterally through SMB, accessed Exchange, exported mailbox data, collected local files, staged data, and cleared logs to reduce visibility.
+
+The investigation relied on Windows Event Logs, PowerShell logging, and endpoint/network telemetry to reconstruct activity and identify the scope of compromise.
+
